@@ -1,0 +1,12 @@
+{
+  "name": "scroll-top-button",
+  "displayName": "scroll-top-button",
+  "expo": {
+    "name": "scroll-top-button",
+    "slug": "scroll-top-button",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
